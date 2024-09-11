@@ -33,7 +33,7 @@ float imposto(float sal1){
    }  
 }
 
-int main(){
+float main(){
   float sal;
 
     printf("Informe o salário: ");
